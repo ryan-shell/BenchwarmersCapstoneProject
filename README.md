@@ -9,4 +9,15 @@ This directory contains an image of our dashboard as well as any files that we t
 The documents folder contains all documents that we created throughout this project as well as pdf versions of the files.
 # FinalDocs
 The FinalDocs folder contains the final versions of all of the deliverables in pdf format.  
-[Dashboard Napkin Drawings](https://github.com/ryan-shell/BenchwarmersCapstoneProject/blob/main/finalDocs/DashboardNapkinsAndFeedback.pdf)
+
+Markup : * [Dashboard Napkin Drawings](https://github.com/ryan-shell/BenchwarmersCapstoneProject/blob/main/finalDocs/DashboardNapkinsAndFeedback.pdf)  
+         * [Visualizations Napkin Drawings](https://github.com/ryan-shell/BenchwarmersCapstoneProject/blob/main/finalDocs/VisualizationsNapkinsAndFeedback.pdf)  
+         * [Data Sources](https://github.com/ryan-shell/BenchwarmersCapstoneProject/blob/main/finalDocs/Data%20Sources.pdf)  
+         * [Executive Summary](https://github.com/ryan-shell/BenchwarmersCapstoneProject/blob/main/finalDocs/ExecutiveSummary.pdf)  
+         * [Exploratory Questions](https://github.com/ryan-shell/BenchwarmersCapstoneProject/blob/main/finalDocs/ExploratoryQuestions.pdf)  
+         * [Project Management Plan](https://github.com/ryan-shell/BenchwarmersCapstoneProject/blob/main/finalDocs/ProjectManagementPlan.png)  
+         * [Repeatable ETL](https://github.com/ryan-shell/BenchwarmersCapstoneProject/blob/main/finalDocs/RepeatableETLReport.pdf)  
+
+
+
+
