@@ -8,5 +8,5 @@ This directory contains an image of our dashboard as well as any files that we t
 # Documents
 The documents folder contains all documents that we created throughout this project as well as pdf versions of the files.
 # FinalDocs
-The FinalDocs folder contains the final versions of all of the deliverables in pdf format.
+The FinalDocs folder contains the final versions of all of the deliverables in pdf format.  
 [Dashboard Napkin Drawings](https://github.com/ryan-shell/BenchwarmersCapstoneProject/blob/main/finalDocs/DashboardNapkinsAndFeedback.pdf)
