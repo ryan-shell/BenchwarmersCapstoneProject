@@ -10,13 +10,13 @@ The documents folder contains all documents that we created throughout this proj
 # FinalDocs
 The FinalDocs folder contains the final versions of all of the deliverables in pdf format.  
 
-Markup : * [Dashboard Napkin Drawings](https://github.com/ryan-shell/BenchwarmersCapstoneProject/blob/main/finalDocs/DashboardNapkinsAndFeedback.pdf)  
-         * [Visualizations Napkin Drawings](https://github.com/ryan-shell/BenchwarmersCapstoneProject/blob/main/finalDocs/VisualizationsNapkinsAndFeedback.pdf)  
-         * [Data Sources](https://github.com/ryan-shell/BenchwarmersCapstoneProject/blob/main/finalDocs/Data%20Sources.pdf)  
-         * [Executive Summary](https://github.com/ryan-shell/BenchwarmersCapstoneProject/blob/main/finalDocs/ExecutiveSummary.pdf)  
-         * [Exploratory Questions](https://github.com/ryan-shell/BenchwarmersCapstoneProject/blob/main/finalDocs/ExploratoryQuestions.pdf)  
-         * [Project Management Plan](https://github.com/ryan-shell/BenchwarmersCapstoneProject/blob/main/finalDocs/ProjectManagementPlan.png)  
-         * [Repeatable ETL](https://github.com/ryan-shell/BenchwarmersCapstoneProject/blob/main/finalDocs/RepeatableETLReport.pdf)  
+Markup : * [Dashboard Napkin Drawings](https://github.com/ryan-shell/BenchwarmersCapstoneProject/blob/main/finalDocs/DashboardNapkinsAndFeedback.pdf)
+         * [Visualizations Napkin Drawings](https://github.com/ryan-shell/BenchwarmersCapstoneProject/blob/main/finalDocs/VisualizationsNapkinsAndFeedback.pdf)
+         * [Data Sources](https://github.com/ryan-shell/BenchwarmersCapstoneProject/blob/main/finalDocs/Data%20Sources.pdf)
+         * [Executive Summary](https://github.com/ryan-shell/BenchwarmersCapstoneProject/blob/main/finalDocs/ExecutiveSummary.pdf)
+         * [Exploratory Questions](https://github.com/ryan-shell/BenchwarmersCapstoneProject/blob/main/finalDocs/ExploratoryQuestions.pdf)
+         * [Project Management Plan](https://github.com/ryan-shell/BenchwarmersCapstoneProject/blob/main/finalDocs/ProjectManagementPlan.png)
+         * [Repeatable ETL](https://github.com/ryan-shell/BenchwarmersCapstoneProject/blob/main/finalDocs/RepeatableETLReport.pdf)
 
 
 
